@@ -1,2 +1,2 @@
-# imasmakurmomsdum.github.io.mandelbrot
+mandelbrot
 A visualization of the mandelbrot fractal
